@@ -1,0 +1,1 @@
+In this first part, we will implement a Wiener filter to eliminate a sinusoidal interference x[n] that corrupts a desired speech signal w[n] using next scheme that allows to separate two additive and uncorrelated components with different power spectral density widths.
